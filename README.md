@@ -1,6 +1,6 @@
 # Task name:**RobotBaseContolPanel** #
 ## The second task in the IoT and software development department is building robot base interface to control the movement of the base which consists of six subtasts as follow:
-- [x] Building the interface to control the robot base.
+- [ ] Building the interface to control the robot base.
 - [x] Adding a new table in the existed database for the robot base.
 - [x] Linking the interface with the database.
 - [x] Creating PHP pages to display recently added values to the database to link it with the base hardware.
