@@ -9,4 +9,4 @@
 ## All of the previous Tasks are accomplished and here is a list of the included files with detailed description of the work. 
 |File|Description|
 |----|-----------|
-|'Connect.php'|Establish connection with the robot_arm_control_panel database|
+|`Connect.php`|Establish connection with the robot_arm_control_panel database|
