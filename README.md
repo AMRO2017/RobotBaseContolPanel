@@ -20,6 +20,6 @@
 - All files should be placed in the same directory including the images.
 - If the 'index.html' file extenstion changed to '.php', then 'insert.php' file near the bottom line redirect header should be modified.
 - The file 'hidePHP.htaccess' is used to enable writing PHP code within HTML file to retain the last submitted angle and status values which did not work.
-- The file 'Jquery.js' is another attempt to insert the values into the database without refreshing using 'Jquery.ajax' also to keep range values after submition but it faild.
+- The file 'Jquery.js' is another attempt to insert the values into the database without refreshing using 'Jquery.ajax' also to keep range values after submition but it faild due to compiling errors.
 - The new added table into the datbase name is direction with two columns for direction and timestamp that is important for retreiving recent values.
-- I made sure that the interface is compatible and responsive for mobile web view through Microsoft Browser inspect property. 
+- I made sure that the interface is compatible and responsive for mobile web view through Microsoft Edge browser inspect property. 
